@@ -2,7 +2,7 @@ ID
 Summary 
 Description: 
 This description may look like this:
-1. going to the website menyaemsya.com;
+1. going to the website meny;
 2. login or registration;
 3. clicking the "Add Ad" button;
 4. enter characters in the "Description" field.

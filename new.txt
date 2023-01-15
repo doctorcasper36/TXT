@@ -1,3 +1,4 @@
 Full name": "Ekaterina Yakimets",
-"Age": 35,
-"Number of pets": 1,
+Age: 35,
+Number of pets: 1,
+Future desired salary: 2000

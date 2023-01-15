@@ -2,3 +2,4 @@ Skill_1: Theory of testing,
 Skill_2: Postman,
 Skill_3: Charles , Fiddler,
 Skill_4: Dev_Tools,
+Skill_5: Git

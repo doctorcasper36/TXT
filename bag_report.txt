@@ -15,4 +15,4 @@ These are the main elements of the bug report that you have to meet most often. 
 Environment/platform – environment, platform, or operating system;
 Fix version – software development stage at the time of bug detection;
 Assignee – the user who has to approve or correct the defect;
-Lable – error category (text, visual elements, etc.).
+Lable – error category (text, visual elements, etc.)

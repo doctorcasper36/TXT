@@ -1,0 +1,3 @@
+Full name": "Ekaterina Yakimets",
+"Age": 35,
+"Number of pets": 1,

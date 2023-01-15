@@ -2,3 +2,4 @@ Favorurite movie: " Legends of the Fall",
 Favorurite TV-series: "The Big Bang Theory",
 Favorurite food: "phở bò",
 Favorurite season: summer
+Must-visit country: Norway

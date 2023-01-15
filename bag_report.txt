@@ -1,1 +1,18 @@
-
+ID
+Summary 
+Description: 
+This description may look like this:
+1. going to the website menyaemsya.com;
+2. login or registration;
+3. clicking the "Add Ad" button;
+4. enter characters in the "Description" field.
+Actual/expected result
+Attachments
+Priority
+Severity
+Status
+These are the main elements of the bug report that you have to meet most often. But the report may also contain additional fields:
+Environment/platform – environment, platform, or operating system;
+Fix version – software development stage at the time of bug detection;
+Assignee – the user who has to approve or correct the defect;
+Lable – error category (text, visual elements, etc.).
